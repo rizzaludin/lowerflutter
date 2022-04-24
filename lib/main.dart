@@ -1,5 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:persebaya_selamanya/pages/home.dart';
+import 'package:persebaya_selamanya/pages/login.dart';
+import 'package:persebaya_selamanya/pages/newsberitapage.dart';
 
 void main() {
   runApp(const MyApp());
@@ -17,7 +19,8 @@ class MyApp extends StatelessWidget {
       theme: ThemeData(
         primarySwatch: Colors.green,
       ),
-      home: const HomePage(),
+      // home: const HomePage(),
+      home: loginpage(),
     );
   }
 }
