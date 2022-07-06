@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "372795707141",
+    "project_id": "login-da453",
+    "storage_bucket": "login-da453.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:372795707141:android:4e3e63be5b814540d6316c",
+        "android_client_info": {
+          "package_name": "com.example.persebaya_selamanya"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "372795707141-p2ru8d29vlg13o9oaqaktkidefhdirug.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDw0tjIb_CpKhZH0s5w3Tuipd7zSU4kM8c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "372795707141-p2ru8d29vlg13o9oaqaktkidefhdirug.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
