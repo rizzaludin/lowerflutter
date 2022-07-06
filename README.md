@@ -4,7 +4,7 @@ A new Flutter project.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+INI ADALAH TUGAS SAYA SELAMA SEMESTER 4 DI PEMROGRAMAN MOBILE YANG BERTEMAKAN FANBASE PERSEBAYA SELAMANYA 
 
 A few resources to get you started if this is your first Flutter project:
 

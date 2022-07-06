@@ -11,8 +11,7 @@ class DummyData {
       "id": 2,
       "nama": "FARLI NAHRUL JAVIER",
       "Nim": "201910370311295",
-      "username": "galih@gmail.com",
-      "password": "galih123",
+
     },
     {
       "id":3,

@@ -1,3 +1,4 @@
+
 import 'package:firebase_core/firebase_core.dart';
 import 'package:firebase_messaging/firebase_messaging.dart';
 import 'package:flutter/foundation.dart';
@@ -115,3 +116,31 @@ Future<void> requestPermission() async{
     print('User declined or has not accepted permission');
   }
 }
+=======
+import 'package:flutter/material.dart';
+import 'package:persebaya_selamanya/pages/home.dart';
+import 'package:persebaya_selamanya/pages/login.dart';
+import 'package:persebaya_selamanya/pages/newsberitapage.dart';
+
+void main() {
+  runApp(const MyApp());
+}
+
+class MyApp extends StatelessWidget {
+  const MyApp({Key? key}) : super(key: key);
+
+  // This widget is the root of your application.
+  @override
+  Widget build(BuildContext context) {
+    return MaterialApp(
+      debugShowCheckedModeBanner: false,
+      title: 'Flutter Demo',
+      theme: ThemeData(
+        primarySwatch: Colors.green,
+      ),
+      // home: const HomePage(),
+      home: loginpage(),
+    );
+  }
+}
+
